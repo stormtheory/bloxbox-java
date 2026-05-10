@@ -1,0 +1,51 @@
+<svg width="512" height="512" viewBox="90 130 500 410" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>BloxBox launcher icon</title>
+<desc>A stylised icon showing a blue box with a game controller, representing the BloxBox parental Roblox launcher</desc>
+
+<defs>
+  <clipPath id="boxclip">
+    <rect x="140" y="160" width="400" height="370" rx="48"/>
+  </clipPath>
+</defs>
+
+<!-- Outer box body -->
+<rect x="140" y="160" width="400" height="370" rx="48" fill="#1a2a4a"/>
+
+<!-- Box lid / top accent strip -->
+<rect x="140" y="160" width="400" height="80" rx="48" fill="#2a4a8a"/>
+<rect x="140" y="200" width="400" height="40" fill="#2a4a8a"/>
+
+<!-- Box clasp / latch -->
+<rect x="300" y="148" width="80" height="36" rx="12" fill="#3a6aaa"/>
+<rect x="316" y="156" width="48" height="20" rx="8" fill="#5a9ae0"/>
+
+<!-- Controller body -->
+<rect x="210" y="310" width="260" height="130" rx="40" fill="#2a6496"/>
+
+<!-- Controller left d-pad -->
+<rect x="240" y="345" width="18" height="52" rx="6" fill="#5ab0e8"/>
+<rect x="220" y="363" width="18" height="18" rx="6" fill="#5ab0e8"/>
+<rect x="260" y="363" width="18" height="18" rx="6" fill="#5ab0e8"/>
+
+<!-- Controller right buttons -->
+<circle cx="415" cy="355" r="11" fill="#e94560"/>
+<circle cx="440" cy="375" r="11" fill="#4caf50"/>
+<circle cx="415" cy="395" r="11" fill="#f0c040"/>
+<circle cx="390" cy="375" r="11" fill="#5ab0e8"/>
+
+<!-- Controller centre buttons -->
+<rect x="316" y="366" width="22" height="14" rx="6" fill="#3a7ab8"/>
+<rect x="342" y="366" width="22" height="14" rx="6" fill="#3a7ab8"/>
+
+<!-- Controller grips -->
+<ellipse cx="252" cy="430" rx="30" ry="18" fill="#2a6496"/>
+<ellipse cx="428" cy="430" rx="30" ry="18" fill="#2a6496"/>
+
+<!-- Box bottom shadow line -->
+<rect x="140" y="492" width="400" height="38" rx="0" fill="#0f1a30" clip-path="url(#boxclip)"/>
+
+<!-- Shield / lock icon top centre -->
+<path d="M340 178 L360 192 L360 210 Q360 226 340 234 Q320 226 320 210 L320 192 Z" fill="#5ab0e8"/>
+<path d="M333 208 L338 214 L348 202" fill="none" stroke="#1a2a4a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>
