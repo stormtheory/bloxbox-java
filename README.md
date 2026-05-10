@@ -120,3 +120,13 @@ No external database or installer required.
 
   On windows run the `.\run.bat -j` and for Linux run `./build.sh -j`
 
+
+  bloxbox/
+├── lib/
+│   ├── windows/        ← contents of the Windows SDK lib/
+│   ├── linux/          ← contents of the Linux SDK lib/
+│   ├── macos-x64/      ← contents of the macOS x64 SDK lib/
+│   └── macos-arm/      ← contents of the macOS aarch64 SDK lib/
+├── *.java
+└── build.sh / run.bat
+

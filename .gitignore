@@ -1,2 +1,4 @@
 bin/*
 fatjar
+lib/linux/*
+lib/windows/*
